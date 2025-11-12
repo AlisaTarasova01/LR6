@@ -58,3 +58,11 @@ git config --global user.email "TarasovaAlisa2006@yandex.ru"
 
 git clone https://github.com/AlisaTarasova01/LR6.git
 
+
+
+\### 6. Добавление файла через GitHub
+
+Через веб-интерфейс GitHub был добавлен файл test.txt, после чего изменения подтянуты в локальный репозиторий:
+
+git pull origin master
+
